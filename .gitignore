@@ -1,0 +1,107 @@
+# ----------------------------------
+# .NET Core / ASP.NET / Blazor
+# ----------------------------------
+
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio temp files
+.vs/
+.vscode/
+TestResults/
+*.log
+
+# Build results
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.psmdcp
+*.cache
+
+# Others
+*.dbmdl
+*.bak
+*.sql
+*.pdb
+*.mdb
+*.opendb
+*.publishsettings
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ----------------------------------
+# React / Node.js / Frontend
+# ----------------------------------
+
+# dependencies
+node_modules/
+bower_components/
+
+# build output
+build/
+dist/
+
+# local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDEs and Editors
+.DS_Store
+*.swp
+*.swo
+*.log
+*.tmp
+
+# testing
+coverage/
+*.lcov
+
+# Next.js / Vite / Create React App
+.next/
+out/
+.cache/
+.eslintcache
+
+# ----------------------------------
+# OS & Tools
+# ----------------------------------
+
+# Mac
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# JetBrains
+.idea/
+
+# DotCover
+*.dcvr
